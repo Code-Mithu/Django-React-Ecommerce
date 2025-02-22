@@ -144,3 +144,5 @@ JAZZMIN_SETTINGS = {
     # Add more customizations here
     # For example, you can customize the theme, navigation links, and much more
 }
+
+#hello
